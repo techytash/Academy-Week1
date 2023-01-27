@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class NegNumbers {
+
+	public static void main(Int[] args) {
+		
+		int num1 = new int()// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package introtojava;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello Natashia Williamson");
+	}
+
+}
+
+public class ArithmeticOperations {
+
+	public static void main(String[] args) {
+		int firstVariable = 13;
+		int secondVariable = 7;
+		int total = firstVariable + secondVariable;
+		System.out.println(firstVariable);
+	}
+}
